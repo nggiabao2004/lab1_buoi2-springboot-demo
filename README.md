@@ -1,2 +1,2 @@
-homework:lab1_buoi2-springboot-demo.
+homework:lab1_buoi2-springboot-demo;
 subject:CongNghePhatTrienPhanMemMoi
